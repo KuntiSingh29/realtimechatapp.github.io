@@ -1,0 +1,343 @@
+body {
+  background-image: url("https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg");
+
+ 
+}
+.contai
+{
+  width: 320px;
+  height: 600px;
+  border: 5px solid;
+  border-radius: 25px;
+  border-bottom: 30px solid ;
+  background-image: url(https://wallpapercave.com/wp/wp6173402.jpg);
+  display: none;
+  
+}
+.contai2
+{
+  width: 320px;
+  height: 600px;
+  border: 5px solid white;
+  border-radius: 25px;
+  border-bottom: 30px solid white;
+  background-image: url(https://e1.pxfuel.com/desktop-wallpaper/960/660/desktop-wallpaper-blur-nature-mobile-mobile.jpg);
+  display: none;
+}
+.pin-code
+{
+  color: white;
+  margin-top:20px;
+}
+.pin-contains
+{
+  color: white;
+}
+input
+{
+  border:none;
+  padding: 7px;
+  border-radius: 5px;
+  width:200px;
+
+}
+.font1
+{
+  margin-top: 80px;
+  font-size: 20px;
+  color: white;
+}
+.button-area
+{
+  margin-top: 30px;
+}
+.button-area button
+{
+  width: 35px;
+  height: 35px; 
+  border-radius: 40px;
+  border-style: none;
+  font-size: 17px;
+  margin: 10px;
+
+}
+.button-area button:hover
+{
+  color: whitesmoke;
+  cursor: pointer;
+  background-color: black;
+}
+.button-area1
+{
+  margin-top: 60px;
+}
+.button-area1 button
+{
+  width: 49px;
+  height: 30px; 
+  border-radius: 5px;
+  border-style: none;
+  font-size: 17px;
+  margin: 12px;
+
+}
+.button-area1 button:hover
+{
+  color: white;
+  cursor: pointer;
+  background-color: black;
+}
+
+ 
+.container-chatbox
+{
+  width: 320px;
+  height: 600px;
+  border: 6px solid;
+  border-radius: 25px;
+  border-bottom: 30px solid ;
+  margin-top: 20px;
+ display: none;
+  
+  
+}
+.container-chatbox1
+{
+  width: 320px;
+  height: 600px;
+  border: 6px solid white;
+  border-radius: 25px;
+  border-bottom: 30px solid white ;
+  margin-top: 20px;
+  display: none;
+
+  
+  
+}
+.msg-header-img{
+
+
+  border-radius:50%;
+  width: 120px;
+  margin-left: 12px;
+  margin-top: 11px;
+  float: left;
+  
+}
+.msg-header1
+{
+
+  border: none;
+  width: 309px;
+  height: 10%;
+  border-bottom: none;
+  display:inline-block;
+  border-top-right-radius: 16px;
+   border-top-left-radius: 15px;
+  }
+.msg-header-img img
+{
+  border-radius:50%;
+  width: 30px;
+  margin-left:2px;
+  margin-top: 4px;
+  float: left;
+  border: 1px solid #ccc;
+  
+}
+.active 
+{
+  margin-top: 9px;
+  float: left;
+  margin-left: -80px;
+  
+}
+
+.active1 
+{
+  margin-top:-2px;
+  float: left;
+  margin-left:3px;
+
+  
+}
+.active1 h5
+{
+  font-size: 15px;
+  margin-top: 5px;
+  color: #fff;
+  
+}
+.active h5
+{
+  font-size: 15px;
+  margin-top: 8px;
+  color: #fff;
+  
+}
+.active h6
+{
+  font-size: 6px;
+  
+  line-height: 2px;
+  color: #fff;
+  font-size: 12px;
+}
+.header-icons
+{
+  
+  float: right;
+  margin-top: 12px;
+  
+}
+
+.header-icons .fa
+{
+  color: #fff;
+   cursor:pointer;
+   margin: 5px;
+
+}
+
+.msg-bottom
+{
+  margin-top: 10px;
+  position: relative;
+}
+.input-group-text
+{
+  height: 50px;
+  cursor: pointer;
+
+}
+/// inbox part
+.chat-page
+{
+  padding:0 0 50px;
+  margin-top: -12px;
+}
+.msg-inbox
+{
+  border: 0px solid #ccc;
+  width: 300px;
+  overflow: hidden;
+  padding-bottom: 5px;
+}
+.chats
+{
+  padding: 20px 10px 0 25px;
+}
+.msg-page
+{
+  height: 420px;
+  width: 270px;
+  overflow-y:auto ;
+  overflow-x:auto ;
+}
+
+
+
+.received-msg-inbox p
+{
+/**/
+  border-radius: 10px;
+ 
+  font-size: 14px;
+  margin: 0;
+  padding: 5px 10px 5px 12px;
+  width: 100%;
+  background-color: white;
+
+}
+
+.outgoing-chats
+{
+  overflow: hidden;
+  margin:26px 20px;
+
+}
+.outgoing-chats-msg p
+{
+
+ 
+   border-radius: 10px;
+   font-size: 14px;
+   margin: 0;
+   color: #fff;
+   padding: 5px 10px 5px 12px;
+   width: 100%;
+}
+
+.dropdown-menu
+{
+  cursor: pointer;
+  font-size: 16px;
+
+
+}
+.dropdown-menu li:hover
+{
+ 
+  background-color: black;
+  color: white;
+
+}
+.container-phonebox
+{
+  width: 330px;
+  height: 600px;
+  border: 6px solid;
+  border-radius: 25px;
+  border-bottom: 30px solid ;
+  margin-top: 20px;
+  background-image: url(https://wallpapercave.com/wp/wp2817659.png);
+  display: none;
+}
+.container-phonebox1
+{
+  width: 330px;
+  height: 600px;
+  border: 6px solid white;
+  border-radius: 25px;
+  border-bottom: 30px solid white ;
+  margin-top: 20px;
+  display: none;
+}
+.msg-phoneheader
+{
+  
+  border: none;
+  width: 309px;
+  height: 10%;
+  border-bottom: none;
+  display:inline-block;
+   border-top-right-radius: 16px;
+   border-top-left-radius: 15px;
+}
+
+.msg-phone-icon
+{
+  margin-left: 12px;
+  margin-top: 11px;
+  float: left;
+  font-size: 10px;
+  color: white;
+}
+.phone-icons
+{
+  
+  float: right;
+  margin-top: 12px;
+  color: white;
+  font-size: 10px;
+
+}
+.iconpart
+{
+  color: white;
+  cursor: pointer;
+  float: left;
+  margin-left: 20px;
+  margin: 12px;
+
+}
